@@ -16,7 +16,7 @@ pry(main)> require './lib/item'
 #=> true
 pry(main)> require './lib/auction'
 #=> true
-pry(main)> require './lib/attendee'
+# pry(main)> require './lib/attendee'
 #=> true
 
 pry(main)> item1 = Item.new('Chalkware Piggy Bank')
